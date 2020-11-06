@@ -4,6 +4,7 @@
       <div>Div 1</div>
       <div>Div 2</div>
       <div>Div 56756765</div>
+      <fa :icon="['dollar-sign']" />
     </div>
   </div>
 </template>
